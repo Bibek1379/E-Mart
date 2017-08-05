@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Emart.Models.Category>
+
+@{
+    ViewBag.Title = "Category";
+}
+
+<table cellpadding="5">
+    <tr>
+
+        @foreach (var item in Model)
+        {
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <a href="@Url.Action("ViewProduct","Shop")">@item.CategoryName</a>
+                </div>
+            </div>
+        }
+    </tr>
+</table>
+
+
+

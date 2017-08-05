@@ -1,0 +1,73 @@
+﻿
+@{
+    ViewBag.Title = "ImageUpload";
+}
+<div class="panel panel-body" style="min-height:256px">
+    <div class="col-md-11">
+        <div class="col-md-4">
+            <div>
+                <img src="/Shop/ImageRetrieve?imgID=1" class="img-responsive thumbnail"/>
+            </div>
+            <div class="btn btn-primary">
+                <input type="file" id="imageBrowse" />
+            </div>
+            <hr />
+            <div id="imgPreview" class="thumbnail" style="display:none">
+                <img class="img-responsive" id="targetImg"/>
+                <div class="caption">
+                    <a href="#" onclick="ClearPreview()"><i class="glyphicon glyphicon-trash"></i></a>
+                </div>
+                <a href="#" class="btn btn-default" onclick="UploadImage()">Upload</a>
+            </div>
+            <div class="thumbnail" id="uploadedImage">
+
+            </div>
+        </div>
+        
+    </div>
+    
+</div>
+<script src="~/scripts/jquery-1.10.2.min.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $("#imageBrowse").change(function () {
+            var File = this.files;
+            if (File && File[0]) {
+                ReadImage(File[0]); 
+            }
+        })
+    })
+    var ReadImage = function (file) {
+        var reader = new FileReader;
+        var image = new Image;
+        reader.readAsDataURL(file);
+        reader.onload = function (_file) {
+            image.src = _file.target.result;
+            image.onload = function () {
+                $("#targetImg").attr('src', _file.target.result);
+                $("#imgPreview").show();
+            }
+        }
+    }
+    var ClearPreview = function () {
+        $("#imageBrowse").val('');
+        $("#imgPreview").hide();
+    }
+    var UploadImage = function () {
+        var file = $("#imageBrowse").get(0).files;
+        var data = new FormData;
+        data.append("ImageFile", file[0]);
+        $.ajax({
+            type: "POST",
+            url: "/Shop/ImageUpload",
+            data: data,
+            contentType: false,
+            processData: false,
+            success: function (imgID) {
+                ClearPreview();
+                $("#uploadedImage").append('<img src="/Shop/ImageRetrieve?imgID=' + imgID + '" class="img-responsive thumbnail"/>');
+            }
+        })
+    }
+</script>

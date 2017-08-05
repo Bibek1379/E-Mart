@@ -1,0 +1,512 @@
+﻿.button-popup{
+    margin:20px;
+    background:#202020;
+    padding:15px;
+}
+.button-popup a{
+    color:white;
+    font-weight:bold;
+    text-decoration:none;
+}
+.window-popup{
+    width:100%;
+    height:100%;
+    position:fixed;
+    z-index:10;
+    background:rgba(0,0,0,0.7);
+    top:0;
+    left:0;
+    display:none;
+}
+.wp-content{
+    width:800px;
+    height:auto;
+    background:white;
+    border-radius:3px;
+    position:absolute;
+    left:30%;
+    top:25%;
+}
+.wp-content a{
+    padding:10px;
+    background:#3498db;
+    color:white;
+    text-decoration:none;
+    position:absolute;
+    right:20px;
+    bottom:20px;
+    border-radius:5px;
+}
+.button-popup1 {
+    margin: 20px;
+    background: #202020;
+    padding: 15px;
+}
+
+.button-popup1 a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.window-popup1 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 10;
+    background: rgba(0,0,0,0.7);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.wp-content1 {
+    width: 800px;
+    height: auto;
+    background: white;
+    border-radius: 3px;
+    position: absolute;
+    left: 30%;
+    top: 25%;
+}
+
+.wp-content1 a {
+    padding: 10px;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 5px;
+}
+.button-popup2 {
+    margin: 20px;
+    background: #202020;
+    padding: 15px;
+}
+
+.button-popup2 a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.window-popup2 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 10;
+    background: rgba(0,0,0,0.7);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.wp-content2 {
+    width: 800px;
+    height: auto;
+    background: white;
+    border-radius: 3px;
+    position: absolute;
+    left: 30%;
+    top: 25%;
+}
+
+.wp-content2 a {
+    padding: 10px;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 5px;
+}
+.button-popup3 {
+    margin: 20px;
+    background: #202020;
+    padding: 15px;
+}
+
+.button-popup3 a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.window-popup3 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 10;
+    background: rgba(0,0,0,0.7);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.wp-content3 {
+    width: 800px;
+    height: auto;
+    background: white;
+    border-radius: 3px;
+    position: absolute;
+    left: 30%;
+    top: 25%;
+}
+
+.wp-content3 a {
+    padding: 10px;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 5px;
+}
+.button-popup4 {
+    margin: 20px;
+    background: #202020;
+    padding: 15px;
+}
+
+.button-popup4 a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.window-popup4 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 10;
+    background: rgba(0,0,0,0.7);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.wp-content4 {
+    width: 800px;
+    height: auto;
+    background: white;
+    border-radius: 3px;
+    position: absolute;
+    left: 30%;
+    top: 25%;
+}
+
+.wp-content4 a {
+    padding: 10px;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 5px;
+}
+.button-popup5 {
+    margin: 20px;
+    background: #202020;
+    padding: 15px;
+}
+
+.button-popup5 a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.window-popup5 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 10;
+    background: rgba(0,0,0,0.7);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.wp-content5 {
+    width: 800px;
+    height: auto;
+    background: white;
+    border-radius: 3px;
+    position: absolute;
+    left: 30%;
+    top: 25%;
+}
+
+.wp-content5 a {
+    padding: 10px;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 5px;
+}
+.button-popup6 {
+    margin: 20px;
+    background: #202020;
+    padding: 15px;
+}
+
+.button-popup6 a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.window-popup6 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 10;
+    background: rgba(0,0,0,0.7);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.wp-content6 {
+    width: 800px;
+    height: auto;
+    background: white;
+    border-radius: 3px;
+    position: absolute;
+    left: 30%;
+    top: 25%;
+}
+
+.wp-content6 a {
+    padding: 10px;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 5px;
+}
+.button-popup7 {
+    margin: 20px;
+    background: #202020;
+    padding: 15px;
+}
+
+.button-popup7 a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.window-popup7 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 10;
+    background: rgba(0,0,0,0.7);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.wp-content7 {
+    width: 800px;
+    height: auto;
+    background: white;
+    border-radius: 3px;
+    position: absolute;
+    left: 30%;
+    top: 25%;
+}
+
+.wp-content7 a {
+    padding: 10px;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 5px;
+}
+ .button-popup8 {
+    margin: 20px;
+    background: #202020;
+    padding: 15px;
+}
+
+.button-popup8 a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.window-popup8 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 10;
+    background: rgba(0,0,0,0.7);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.wp-content8 {
+    width: 800px;
+    height: auto;
+    background: white;
+    border-radius: 3px;
+    position: absolute;
+    left: 30%;
+    top: 25%;
+}
+
+.wp-content8 a {
+    padding: 10px;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 5px;
+}
+.button-popup9 {
+    margin: 20px;
+    background: #202020;
+    padding: 15px;
+}
+
+.button-popup9 a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.window-popup9 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 10;
+    background: rgba(0,0,0,0.7);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.wp-content9 {
+    width: 800px;
+    height: auto;
+    background: white;
+    border-radius: 3px;
+    position: absolute;
+    left: 30%;
+    top: 25%;
+}
+
+.wp-content9 a {
+    padding: 10px;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 5px;
+}
+.button-popup10 {
+    margin: 20px;
+    background: #202020;
+    padding: 15px;
+}
+
+.button-popup10 a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.window-popup10 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 10;
+    background: rgba(0,0,0,0.7);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.wp-content10 {
+    width: 800px;
+    height: auto;
+    background: white;
+    border-radius: 3px;
+    position: absolute;
+    left: 30%;
+    top: 25%;
+}
+
+.wp-content10 a {
+    padding: 10px;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 5px;
+}
+.button-popup11 {
+    margin: 20px;
+    background: #202020;
+    padding: 15px;
+}
+
+.button-popup11 a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.window-popup11 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 10;
+    background: rgba(0,0,0,0.7);
+    top: 0;
+    left: 0;
+    display: none;
+}
+
+.wp-content11 {
+    width: 800px;
+    height: auto;
+    background: white;
+    border-radius: 3px;
+    position: absolute;
+    left: 30%;
+    top: 25%;
+}
+
+.wp-content11 a {
+    padding: 10px;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    border-radius: 5px;
+}

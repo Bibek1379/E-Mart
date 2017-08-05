@@ -1,0 +1,30 @@
+﻿
+@model IEnumerable<Emart.ViewModels.EshopperViewModel>
+
+@{
+    ViewBag.Title = "ViewProduct";
+}
+
+
+<table cellpadding="5">
+
+    @foreach (var item in Model)
+    {
+        <td>
+            <div class="thumbnail">
+                <a href="#">
+                    <img src="@item.ImagePath" style="height:200px;width:200px" />
+
+                </a>
+                <div style="text-align:center">
+                    @Html.DisplayFor(modelItem => item.ProductName)
+                </div>
+            </div>
+            
+            
+        </td>
+    }
+
+</table>
+
+

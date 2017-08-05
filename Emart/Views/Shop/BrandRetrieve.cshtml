@@ -1,0 +1,34 @@
+﻿@model IEnumerable<Emart.Models.Brand>
+
+@{
+    ViewBag.Title = "Brand";
+}
+
+<table cellpadding="5">
+    <tr>
+
+        @foreach (var item in Model)
+        {
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <a href="@Url.Action("VendorCheckout","Shop")">
+                        @item.BrandName
+                    </a>
+                </div>
+            </div>
+
+
+
+        }
+
+
+
+
+    </tr>
+
+</table>
+
+
+
+
+

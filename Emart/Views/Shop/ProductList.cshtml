@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Emart.Models.ImageStore>
+
+@{
+    ViewBag.Title = "ProductList";
+}
+
+<h2>ProductList</h2>
+<table cellpadding="5">
+    <tr>
+
+        @foreach (var item in Model)
+        {
+            <td>
+                <a href="/Shop/ImageRetrieve?ImageId=@item.ImageId">
+                    <img src="@item.ImagePath" width="100" height="75" />
+                </a>
+
+            </td>
+                        
+
+        }
+
+
+
+
+    </tr>
+
+</table>
+

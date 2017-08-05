@@ -1,0 +1,250 @@
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\ApplicationInsights.config
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\roslyn\csc.exe
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\roslyn\vbc.exe
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Emart.dll.config
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Emart.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Emart.pdb
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\EntityFramework.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\EntityFramework.SqlServer.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Microsoft.AI.Web.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\System.Web.Helpers.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\System.Web.Mvc.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\System.Web.Razor.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\System.Web.Webpages.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\EntityFramework.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\EntityFramework.SqlServer.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Microsoft.AI.Web.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\System.Web.Razor.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\System.Web.Webpages.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\System.Web.Helpers.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\bin\System.Web.Mvc.xml
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\obj\Debug\Emart.dll
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\obj\Debug\Emart.pdb
+C:\Users\Aakash\Documents\Visual Studio 2015\Projects\Emart\Emart\obj\Debug\Emart.csprojResolveAssemblyReference.cache
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\ApplicationInsights.config
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\roslyn\csc.exe
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\roslyn\vbc.exe
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Emart.dll.config
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Emart.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Emart.pdb
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\EntityFramework.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\EntityFramework.SqlServer.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Microsoft.AI.Web.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\System.Web.Helpers.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\System.Web.Mvc.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\System.Web.Razor.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\System.Web.Webpages.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\System.Web.Webpages.Razor.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\EntityFramework.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\EntityFramework.SqlServer.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Microsoft.AI.Web.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\System.Web.Razor.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\System.Web.Webpages.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\System.Web.Webpages.Razor.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\System.Web.Helpers.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\bin\System.Web.Mvc.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\obj\Debug\Emart.csprojResolveAssemblyReference.cache
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\obj\Debug\Emart.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart-test\Emart\obj\Debug\Emart.pdb
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\ApplicationInsights.config
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\roslyn\csc.exe
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\roslyn\vbc.exe
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Emart.dll.config
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Emart.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Emart.pdb
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\EntityFramework.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\EntityFramework.SqlServer.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Microsoft.AI.Web.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\System.Web.Helpers.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\System.Web.Mvc.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\System.Web.Razor.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\System.Web.Webpages.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\System.Web.Webpages.Razor.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\EntityFramework.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\EntityFramework.SqlServer.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Microsoft.AI.Web.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\System.Web.Razor.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\System.Web.Webpages.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\System.Web.Webpages.Razor.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\System.Web.Helpers.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\bin\System.Web.Mvc.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\obj\Debug\Emart.csprojResolveAssemblyReference.cache
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\obj\Debug\Emart.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\Emart\Emart\obj\Debug\Emart.pdb
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\ApplicationInsights.config
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\roslyn\csc.exe
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\roslyn\vbc.exe
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Emart.dll.config
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Emart.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Emart.pdb
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\EntityFramework.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\EntityFramework.SqlServer.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Microsoft.AI.Web.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\System.Web.Helpers.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\System.Web.Mvc.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\System.Web.Razor.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\System.Web.Webpages.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\System.Web.Webpages.Razor.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\EntityFramework.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\EntityFramework.SqlServer.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Microsoft.AI.Web.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\System.Web.Razor.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\System.Web.Webpages.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\System.Web.Webpages.Razor.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\System.Web.Helpers.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\bin\System.Web.Mvc.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\obj\Debug\Emart.csprojResolveAssemblyReference.cache
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\obj\Debug\Emart.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\New folder\E-mart\Emart\obj\Debug\Emart.pdb
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\obj\Debug\Emart.csprojResolveAssemblyReference.cache
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\obj\Debug\Emart.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\obj\Debug\Emart.pdb
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\ApplicationInsights.config
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\roslyn\csc.exe
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\roslyn\vbc.exe
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Emart.dll.config
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Emart.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Emart.pdb
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\EntityFramework.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\EntityFramework.SqlServer.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Microsoft.AI.Web.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\System.Web.Helpers.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\System.Web.Mvc.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\System.Web.Razor.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\System.Web.Webpages.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\System.Web.Webpages.Razor.dll
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\EntityFramework.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\EntityFramework.SqlServer.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Microsoft.AI.Web.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\System.Web.Razor.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\System.Web.Webpages.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\System.Web.Webpages.Razor.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\System.Web.Helpers.xml
+C:\Users\Bibek\Documents\Visual Studio 2015\Projects\Emart\E-mart\Emart\bin\System.Web.Mvc.xml

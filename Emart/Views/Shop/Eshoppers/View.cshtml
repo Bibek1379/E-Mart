@@ -1,0 +1,129 @@
+﻿@model Emart.Models.Eshopper
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View</title>
+</head>
+<body>
+    <div>
+        <h4>Eshopper</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+            </dt>
+    
+            <dd>
+                @model => model.slider1_Text1
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.slider1_Text2)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.slider1_Text2)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.slider2_Text1)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.slider2_Text1)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.MobileNumber)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.MobileNumber)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.FacebookLink)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.FacebookLink)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.TwitterLink)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.TwitterLink)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.InstagramLink)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.InstagramLink)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.GooglelusLink)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.GooglelusLink)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Header)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Header)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Title)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Title)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Footer)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Footer)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.VendorId)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.VendorId)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

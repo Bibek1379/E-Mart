@@ -1,0 +1,360 @@
+﻿#red .ui-slider-range, #red .ui-slider-handle {
+	background: #ef2929;
+}
+
+#green .ui-slider-range, #green .ui-slider-handle {
+	background: #8ae234;
+}
+
+#blue .ui-slider-range, #blue .ui-slider-handle {
+	background: #729fcf;
+}
+
+#swatch {
+	width: 180px;
+	height: 180px;
+	background-image: none;
+	float: right;
+	margin: 6px 20px 0px 0px;
+	border: none;
+	background-color: black;
+}
+
+#sliders {
+	width: 500px;
+}
+
+#colorpicker {
+	float: left;
+	margin: 0px 0px 0px 20px;
+}
+
+#red, #green, #blue {
+	margin: 10px 0px 0px 0px;
+}
+
+#innerswatch {
+	font: bold 24px arial;
+	margin: 75px 0px 0px 0px;
+	text-align: center;
+	color: white;
+}
+#swatch1 {
+    width: 180px;
+    height: 180px;
+    background-image: none;
+    float: right;
+    margin: 6px 20px 0px 0px;
+    border: none;
+    background-color: black;
+}
+
+#sliders1 {
+    width: 500px;
+}
+
+#colorpicker1 {
+    float: left;
+    margin: 0px 0px 0px 20px;
+}
+
+#red, #green, #blue {
+    margin: 10px 0px 0px 0px;
+}
+
+#innerswatch1 {
+    font: bold 24px arial;
+    margin: 75px 0px 0px 0px;
+    text-align: center;
+    color: white;
+}
+#swatch2 {
+    width: 180px;
+    height: 180px;
+    background-image: none;
+    float: right;
+    margin: 6px 20px 0px 0px;
+    border: none;
+    background-color: black;
+}
+
+#sliders2 {
+    width: 500px;
+}
+
+#colorpicker2 {
+    float: left;
+    margin: 0px 0px 0px 20px;
+}
+
+#red, #green, #blue {
+    margin: 10px 0px 0px 0px;
+}
+
+#innerswatch2 {
+    font: bold 24px arial;
+    margin: 75px 0px 0px 0px;
+    text-align: center;
+    color: white;
+}
+#swatch3 {
+    width: 180px;
+    height: 180px;
+    background-image: none;
+    float: right;
+    margin: 6px 20px 0px 0px;
+    border: none;
+    background-color: black;
+}
+
+#sliders3 {
+    width: 500px;
+}
+
+#colorpicker3 {
+    float: left;
+    margin: 0px 0px 0px 20px;
+}
+
+#red, #green, #blue {
+    margin: 10px 0px 0px 0px;
+}
+
+#innerswatch3 {
+    font: bold 24px arial;
+    margin: 75px 0px 0px 0px;
+    text-align: center;
+    color: white;
+}
+ #swatch4 {
+    width: 180px;
+    height: 180px;
+    background-image: none;
+    float: right;
+    margin: 6px 20px 0px 0px;
+    border: none;
+    background-color: black;
+}
+
+#sliders4 {
+    width: 500px;
+}
+
+#colorpicker4 {
+    float: left;
+    margin: 0px 0px 0px 20px;
+}
+
+#red, #green, #blue {
+    margin: 10px 0px 0px 0px;
+}
+
+#innerswatch4 {
+    font: bold 24px arial;
+    margin: 75px 0px 0px 0px;
+    text-align: center;
+    color: white;
+}
+#swatch5 {
+    width: 180px;
+    height: 180px;
+    background-image: none;
+    float: right;
+    margin: 6px 20px 0px 0px;
+    border: none;
+    background-color: black;
+}
+
+#sliders5 {
+    width: 500px;
+}
+
+#colorpicker5 {
+    float: left;
+    margin: 0px 0px 0px 20px;
+}
+
+#red, #green, #blue {
+    margin: 10px 0px 0px 0px;
+}
+
+#innerswatch5 {
+    font: bold 24px arial;
+    margin: 75px 0px 0px 0px;
+    text-align: center;
+    color: white;
+}
+#swatch6 {
+    width: 180px;
+    height: 180px;
+    background-image: none;
+    float: right;
+    margin: 6px 20px 0px 0px;
+    border: none;
+    background-color: black;
+}
+
+#sliders6 {
+    width: 500px;
+}
+
+#colorpicker6 {
+    float: left;
+    margin: 0px 0px 0px 20px;
+}
+
+#red, #green, #blue {
+    margin: 10px 0px 0px 0px;
+}
+
+#innerswatch6 {
+    font: bold 24px arial;
+    margin: 75px 0px 0px 0px;
+    text-align: center;
+    color: white;
+}
+#swatch7 {
+    width: 180px;
+    height: 180px;
+    background-image: none;
+    float: right;
+    margin: 6px 20px 0px 0px;
+    border: none;
+    background-color: black;
+}
+
+#sliders7 {
+    width: 500px;
+}
+
+#colorpicker7 {
+    float: left;
+    margin: 0px 0px 0px 20px;
+}
+
+#red, #green, #blue {
+    margin: 10px 0px 0px 0px;
+}
+
+#innerswatch7 {
+    font: bold 24px arial;
+    margin: 75px 0px 0px 0px;
+    text-align: center;
+    color: white;
+}
+ #swatch8 {
+    width: 180px;
+    height: 180px;
+    background-image: none;
+    float: right;
+    margin: 6px 20px 0px 0px;
+    border: none;
+    background-color: black;
+}
+
+#sliders8 {
+    width: 500px;
+}
+
+#colorpicker8 {
+    float: left;
+    margin: 0px 0px 0px 20px;
+}
+
+#red, #green, #blue {
+    margin: 10px 0px 0px 0px;
+}
+
+#innerswatch8 {
+    font: bold 24px arial;
+    margin: 75px 0px 0px 0px;
+    text-align: center;
+    color: white;
+}
+#swatch9 {
+    width: 180px;
+    height: 180px;
+    background-image: none;
+    float: right;
+    margin: 6px 20px 0px 0px;
+    border: none;
+    background-color: black;
+}
+
+#sliders9 {
+    width: 500px;
+}
+
+#colorpicker9 {
+    float: left;
+    margin: 0px 0px 0px 20px;
+}
+
+#red, #green, #blue {
+    margin: 10px 0px 0px 0px;
+}
+
+#innerswatch9 {
+    font: bold 24px arial;
+    margin: 75px 0px 0px 0px;
+    text-align: center;
+    color: white;
+}
+#swatch10 {
+    width: 180px;
+    height: 180px;
+    background-image: none;
+    float: right;
+    margin: 6px 20px 0px 0px;
+    border: none;
+    background-color: black;
+}
+
+#sliders10 {
+    width: 500px;
+}
+
+#colorpicker10 {
+    float: left;
+    margin: 0px 0px 0px 20px;
+}
+
+#red, #green, #blue {
+    margin: 10px 0px 0px 0px;
+}
+
+#innerswatch10 {
+    font: bold 24px arial;
+    margin: 75px 0px 0px 0px;
+    text-align: center;
+    color: white;
+}
+#swatch11 {
+    width: 180px;
+    height: 180px;
+    background-image: none;
+    float: right;
+    margin: 6px 20px 0px 0px;
+    border: none;
+    background-color: black;
+}
+
+#sliders11 {
+    width: 500px;
+}
+
+#colorpicker11 {
+    float: left;
+    margin: 0px 0px 0px 20px;
+}
+
+#red, #green, #blue {
+    margin: 10px 0px 0px 0px;
+}
+
+#innerswatch11 {
+    font: bold 24px arial;
+    margin: 75px 0px 0px 0px;
+    text-align: center;
+    color: white;
+}
