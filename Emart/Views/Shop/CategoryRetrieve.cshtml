@@ -11,12 +11,24 @@
         {
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <a href="@Url.Action("ViewProduct","Shop")">@item.CategoryName</a>
+                    <a href="javascript:CategoryName();">@item.CategoryName</a>
                 </div>
+                
             </div>
         }
     </tr>
+    
 </table>
-
+<script>
+        var CategoryName = function () {
+            $.ajax({
+                type: "POST",
+                url: "/Shop/ViewProduct",
+                success: function (response) {
+                    $("#show").html(response);
+                }
+            })
+        }
+</script>
 
 

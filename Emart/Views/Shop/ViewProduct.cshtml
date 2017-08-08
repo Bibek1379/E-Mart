@@ -1,5 +1,5 @@
 ﻿
-@model IEnumerable<Emart.ViewModels.EshopperViewModel>
+@model IEnumerable<Emart.Models.Product>
 
 @{
     ViewBag.Title = "ViewProduct";
@@ -11,20 +11,45 @@
     @foreach (var item in Model)
     {
         <td>
-            <div class="thumbnail">
-                <a href="#">
-                    <img src="@item.ImagePath" style="height:200px;width:200px" />
+            <div class="product-image-wrapper">
+                <div class="single-products">
+                    <div class="productinfo text-center">
+                        <a href="#">
+                            <img src="@item.ImagePath" style="height:200px;width:200px" />
 
-                </a>
-                <div style="text-align:center">
-                    @Html.DisplayFor(modelItem => item.ProductName)
+                        </a>
+                        <div style="text-align:center">
+                            @Html.DisplayFor(modelItem => item.ProductName)
+                        </div>
+                        <div style="text-align:center">
+                            @Html.DisplayFor(modelItem => item.Price)
+                        </div>
+                        <div style="text-align:center">
+                            @Html.DisplayFor(modelItem => item.ProductDescription)
+                        </div>
+                        <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                        <div class="product-overlay">
+                            <div class="overlay-content">
+                                <div style="text-align:center">
+                                    @Html.DisplayFor(modelItem => item.ProductName)
+                                </div>
+                                <div style="text-align:center">
+                                    @Html.DisplayFor(modelItem => item.Price)
+                                </div>
+                                <div style="text-align:center">
+                                    @Html.DisplayFor(modelItem => item.ProductDescription)
+                                </div>
+                                <a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
             
-            
+
+
         </td>
     }
 
 </table>
-
-

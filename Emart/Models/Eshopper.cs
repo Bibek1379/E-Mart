@@ -35,13 +35,15 @@ namespace Emart.Models
         public string Text2_color { get; set; }
         public string Text3 { get; set; }
         public string Text3_color { get; set; }
+        public string dpath1 { get; set; }
+        public string dpath2 { get; set; }
+        public string dpath3 { get; set; }
         public int MobileNumber { get; set; }
         public string Email { get; set; }
         public string FacebookLink { get; set; }
         public string TwitterLink { get; set; }
         public string InstagramLink { get; set; }
         public string GooglelusLink { get; set; }
-
         public string Header { get; set; }
         public string Title { get; set; }
         public string Footer { get; set; }

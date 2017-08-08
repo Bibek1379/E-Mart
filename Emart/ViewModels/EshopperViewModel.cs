@@ -10,9 +10,5 @@ namespace Emart.ViewModels
     {
         public Eshopper Output { get; set; }
         public Template Template { get; set; }
-        public int ImageId { get; set; }
-        public string ImagePath { get; set; }
-        public string ProductName { get; set; }
-        public int ProductId { get; set; }
     }
 }

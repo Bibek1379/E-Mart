@@ -26,9 +26,9 @@ namespace Emart
             );
 
             routes.MapRoute(
-                name: "Create ImageUpload",
-                url: "shop/imageupload",
-                defaults: new { controller = "Shop", action = "ImageUpload" }
+                name: "Create UploadFile",
+                url: "shop/uploadfile",
+                defaults: new { controller = "Shop", action = "UploadFile" }
             );
             routes.MapRoute(
                 name: "Create ImageRetrieve",
@@ -47,7 +47,6 @@ namespace Emart
                 url: "shop/brandretrieve",
                 defaults: new { controller = "Shop", action = "BrandRetrieve" }
             );
-
             routes.MapRoute(
                 name: "Create ViewProduct",
                 url: "shop/viewproduct",

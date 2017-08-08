@@ -23,6 +23,13 @@
     $('#Slider1_Text3').attr('style', var_Slider1_Text3_Color)
     var_Slider1_Text3_Color = 'float: right;  color:white; background-' + var_Slider1_Text3_Color;
     $('#button-popup2').attr('style', var_Slider1_Text3_Color)
+
+    //slider1_image
+    var var_slider1_image;
+    var_slider1_image = String(document.getElementById('slider1_image').value);
+    $('#Slider1_image').attr('value', var_slider1_image);
+
+
     //slider2_text1_color
     var var_Slider2_Text1_Color;
     var_Slider2_Text1_Color = String(document.getElementById('Code3').value);
@@ -47,6 +54,12 @@
     $('#Slider2_Text3').attr('style', var_Slider2_Text3_Color)
     var_Slider2_Text3_Color = 'float: right;  color:white; background-' + var_Slider2_Text3_Color;
     $('#button-popup5').attr('style', var_Slider2_Text3_Color)
+
+    //slider2_image
+    var var_slider2_image;
+    var_slider2_image = String(document.getElementById('slider2_image').value);
+    $('#Slider2_image').attr('value', var_slider2_image);
+
     //slider3_text1_color
     var var_Slider3_Text1_Color;
     var_Slider3_Text1_Color = String(document.getElementById('Code6').value);
@@ -71,6 +84,12 @@
     $('#Slider3_Text3').attr('style', var_Slider3_Text3_Color)
     var_Slider3_Text3_Color = 'float: right;  color:white; background-' + var_Slider3_Text3_Color;
     $('#button-popup8').attr('style', var_Slider3_Text3_Color)
+
+    //slider3_image
+    var var_slider3_image;
+    var_slider3_image = String(document.getElementById('slider3_image').value);
+    $('#Slider3_image').attr('value', var_slider3_image);
+
     //text1_color
     var var_Text1_Color;
     var_Text1_Color = String(document.getElementById('Code9').value);
@@ -157,4 +176,9 @@
     var_Text3 = String(document.getElementById('Text3_Input').value);
     document.getElementById('Text3').innerHTML = var_Text3;
     $('#Text3_Hidden').attr('value', var_Text3)
+
+    //logo
+    var var_logo_image;
+    var_logo_image = String(document.getElementById('logo_image').value);
+    $('#Logo_image').attr('value', var_logo_image);
 }

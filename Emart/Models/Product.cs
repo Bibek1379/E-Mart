@@ -1,5 +1,4 @@
-﻿using Emart.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -11,8 +10,12 @@ namespace Emart.Models
     {
         [Key]
         public int ProductId { get; set; }
+        public int VendorId { get; set; }
+        public string ProductDescription { get; set; }
         public string ProductName { get; set; }
-        public virtual Category CategoryId { get; set; }
-        public virtual ICollection<ImageStore> ImageStores { get; set; }
+        public string Price { get; set; }
+        public int MainCategoryId { get; set; }
+        public int VendorCategoryId { get; set; }
+        public string ImagePath { get; set; }
     }
 }
